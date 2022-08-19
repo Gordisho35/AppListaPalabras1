@@ -25,7 +25,7 @@ App Generador de lista de pares de palabras 1
 # Practica calificada Marvin Grandez Rojas
 
 # Capturas de pantalla
-![alt Imagen pantalla 9](Pantalla9.jpg "Pantalla 9")
-![alt Imagen pantalla 10](Pantalla10.jpg "Pantalla 10")
-![alt Imagen pantalla 11](Pantalla11.jpg "Pantalla 11")
-![alt Imagen pantalla 12](Pantalla12.jpg "Pantalla 12")
+![alt Imagen pantalla 9](Capturas/Pantalla9.jpg "Pantalla 9")
+![alt Imagen pantalla 10](Capturas/Pantalla10.jpg "Pantalla 10")
+![alt Imagen pantalla 11](Capturas/Pantalla11.jpg "Pantalla 11")
+![alt Imagen pantalla 12](Capturas/Pantalla12.jpg "Pantalla 12")
